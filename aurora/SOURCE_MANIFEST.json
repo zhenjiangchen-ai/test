@@ -1,0 +1,146 @@
+{
+  "snapshot_date": "2026-10-22",
+  "source_root": "rtl",
+  "files": [
+    {
+      "path": "rtl/01_common/03_aur/aur_mul_to_one.v",
+      "bytes": 16754,
+      "sha256": "45e7ae19469674e37e7eba82305a91f68b7b476d35939725445fa8072b8ea15b"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aur_nfc.sv",
+      "bytes": 6392,
+      "sha256": "ab14a40c62b484ed581225cf32531618d0a0dd17e3fcc19be04f9599cec4e1f3"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aur_one_to_mul.v",
+      "bytes": 15235,
+      "sha256": "aeb1736c2fc94abdecff85fbb1a0c28d65145060a4460b0dc98dbb3767280953"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aur_rst.v",
+      "bytes": 4071,
+      "sha256": "a6fe3abf9740dd5b82679cafd0bb0fbcd44ffd4e5c52eca518138de61f6ff6d7"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aur_rx_dec.v",
+      "bytes": 53059,
+      "sha256": "1d543e36c2bcff6ad31e92f1ebf83c8c6d9c03cfc1e7174f6ea02e38afcf49cc"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aur_rx_if.v",
+      "bytes": 5424,
+      "sha256": "1af08fff0ee45a8bf07a1ca065480eaef2dda71ecce6d740de0f305c764b65df"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aur_tx_arbit.v",
+      "bytes": 6992,
+      "sha256": "afe9aa01c6d616a4dec5c2ff3ac1590142b51bf85b7a5d28b351fbc2dc1d81e1"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aur_tx_if.v",
+      "bytes": 4921,
+      "sha256": "e15d7d397f192517aefdae41c08ba5c41e2e325c336f00c4a326b3b011cb444b"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aurora_top.v",
+      "bytes": 50924,
+      "sha256": "cdc27b59817f7c92e332473ea6ea124852b6fc6f75c0b4fd831b7152f2589d32"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aurora_x1.v",
+      "bytes": 14610,
+      "sha256": "4d8703d0650d33c5940facb6e2b6ebfa1348c25d190e66f269379c9170e9e1db"
+    },
+    {
+      "path": "rtl/01_common/03_aur/aurora_xch.v",
+      "bytes": 14017,
+      "sha256": "169369b02812cb42751ee8ad07dc5da0379e75d6de183d99ca0e3e5024ecbc09"
+    },
+    {
+      "path": "rtl/01_common/03_aur/crc32_d64.v",
+      "bytes": 4071,
+      "sha256": "80f154999de38b8c74bb1f1af174b7446a923338bb2c25cedbf2c01869b68fe0"
+    },
+    {
+      "path": "rtl/01_common/03_aur/ddr_rcp_tx.v",
+      "bytes": 12266,
+      "sha256": "1a0b0d368440b38461efc608140503ce0860fd697605864eb76149c5415d664e"
+    },
+    {
+      "path": "rtl/01_common/03_aur/ram_rcp_tx.v",
+      "bytes": 23106,
+      "sha256": "b78dd2b7590a73da70f7e84d99eca3cf063096b488e92915d46de0fad95d6361"
+    },
+    {
+      "path": "rtl/01_common/03_aur/reg_rcp_tx.v",
+      "bytes": 18905,
+      "sha256": "5a6c11ce6d41becf8fa059c516142048c0e9421ba616fa3871828bb56c389cde"
+    },
+    {
+      "path": "rtl/00_define/define.v",
+      "bytes": 2640,
+      "sha256": "bed86c436d5a4e961f2f14f0dcb5c450c6c480a91e20b717611923215f2861c8"
+    },
+    {
+      "path": "rtl/01_common/hsp_pkt_hdr.vh",
+      "bytes": 5746,
+      "sha256": "12fb1cdbc95f1cf42008d64215362b66ec3daab26900dc15a6534a0546577399"
+    },
+    {
+      "path": "rtl/01_common/02_clk_rst/sync_rst.v",
+      "bytes": 2941,
+      "sha256": "534ceb9c2bc3d0ba64d411b111c603f242bd7c4eccfcc3803b74961a359e4c7c"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/aurora_64b66b/aurora_64b66b.xci",
+      "bytes": 55471,
+      "sha256": "28f69bc8aaded34dda8257fc58b2bf560d6b137e481f01af22807ebbb079872b"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/aurora_64b66b/ip_0/aurora_64b66b_gt.xci",
+      "bytes": 126851,
+      "sha256": "5400332ea224a5b365e67b2ebab11e2139e7cf1b7fa9cfe7779a70e82c7cf6f1"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/aurora_64b66b/ip_1/aurora_64b66b_fifo_gen_master.xci",
+      "bytes": 50483,
+      "sha256": "f166db99798d571e70374cb2e107930f987e6303bf2ded1cd33097cbac6caa8b"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/axis_afifo_i64o64_d1024/axis_afifo_i64o64_d1024.xci",
+      "bytes": 15668,
+      "sha256": "08b3ee6724a52483021200f33dec9ffa56147e92e07efa628fd76e46d1f560b0"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/axis_afifo_i64o64_d2048/axis_afifo_i64o64_d2048.xci",
+      "bytes": 15668,
+      "sha256": "0e51ec853f08a8bdd24c0947b9230598a3c9c13114b510c24d7eceb694159885"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/sfifo_i64o64_d2048/sfifo_i64o64_d2048.xci",
+      "bytes": 48591,
+      "sha256": "65b7af74a4c93e9f1dc37d8fb3b50bc9fde3db7a469fc9621e487765e27d967d"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/aurora_64b66b/aurora_64b66b/example_design/support/aurora_64b66b_clock_module.v",
+      "bytes": 5105,
+      "sha256": "c7508654d964fb2800708cc5b2dc2dfc486ba9ae7d1531b5589f9f2dd18e15c1"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/aurora_64b66b/aurora_64b66b/example_design/support/aurora_64b66b_gt_common_wrapper.v",
+      "bytes": 4358,
+      "sha256": "4eedf846d6405eb79c682b72d43a81415aa3fc4f5e813dc450f34f0503dfd4a8"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/aurora_64b66b/aurora_64b66b/example_design/support/aurora_64b66b_gt_gthe3_common_wrapper.v",
+      "bytes": 19939,
+      "sha256": "de8b3ed7315d3f7a14621a270d2b66524ef1e3daaccc4ed7d00a98b1b0b49ec7"
+    },
+    {
+      "path": "rtl/01_common/00_amd_ip/aurora_64b66b/aurora_64b66b/example_design/support/gtwizard_ultrascale_v1_7_gthe3_common.v",
+      "bytes": 37201,
+      "sha256": "a00f35e68603ad9d6291ed15f9c6b56cf82ca992cdf3ebcfbfa1304d1f82a311"
+    }
+  ]
+}
